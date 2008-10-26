@@ -1,4 +1,4 @@
 category: X11
 requires: cygwin libX11_6 libXau6 libXext6 libXmuu1
-sdesc: "Xorg X Authority file utility"
-ldesc: "Xorg X Authority file utility"
+sdesc: "X.Org X Authority file utility"
+ldesc: "X.Org X Authority file utility"
