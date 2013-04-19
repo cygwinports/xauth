@@ -1,0 +1,8 @@
+inherit xorg
+
+NAME="xauth"
+VERSION=1.0.7
+RELEASE=1
+CATEGORY="X11"
+SUMMARY="X.Org X Authority file utility"
+DESCRIPTION="X.Org X Authority file utility"
