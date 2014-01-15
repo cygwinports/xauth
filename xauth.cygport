@@ -1,8 +1,13 @@
 inherit xorg
 
 NAME="xauth"
-VERSION=1.0.7
+VERSION=1.0.8
 RELEASE=1
 CATEGORY="X11"
 SUMMARY="X.Org X Authority file utility"
-DESCRIPTION="X.Org X Authority file utility"
+DESCRIPTION="The xauth program is used to edit and display the authorization
+information used in connecting to the X server.  This program is usually
+used to extract authorization records from one machine and merge them in on
+another (as is the case when using remote logins or granting access to other
+users).  Normally xauth is not used to create the authority file entry in
+the first place; the program that starts the X server (e.g. startx) does that."
